@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug in a PM2 plugin.
 title: ''
 labels: bug
 assignees: ''

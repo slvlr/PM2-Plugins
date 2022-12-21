@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for a PM2 plugin.
+about: Make a feature request for a PM2 plugin.
 title: ''
 labels: enhancement
 assignees: ''
