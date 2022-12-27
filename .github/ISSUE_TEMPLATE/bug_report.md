@@ -28,3 +28,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Error / Logs**
 Please post any errors / server log to https://pastebin.com and provide your Pastebin URL.
+
+**Config File**
+Please post your config file to https://pastebin.com and provide your Pastebin URL.
+
+**Crate File**
+Please upload the crate files that you are having issues with to https://pastebin.com and provide your Pastebin URL.
